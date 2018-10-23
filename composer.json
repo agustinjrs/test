@@ -7,8 +7,6 @@
         }
     ],
     "require": {
-    	"php": ">=7.0.32",
-        "laracasts/flash": "^2.0",
-        "laravel/framework": "5.4.*"
+    	"php": ">=7.0.32"
     }
 }
